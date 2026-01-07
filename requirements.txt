@@ -1,6 +1,5 @@
 fastapi
 uvicorn
-python-binance
+requests
 pandas
-pandas-ta
-python-dotenv
+ta
